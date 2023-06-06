@@ -1,0 +1,10 @@
+POO
+diferencia entre constructor y método
+private / public
+retorno de tipo de dato en métodos
+instanciar en memoria. new
+sobrecarga : métodos con el mismo nombre y diferentes parámetros
+sobreescritura : en herencia, clase padre e hijas con el mismo método. super.
+herencia simple
+abstracción de clases : no se puede instanciar
+interface : se implementa en la clase
